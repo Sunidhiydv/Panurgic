@@ -32,7 +32,7 @@ export default function Hero() {
           {/* Insurance Slide */}
           <div className="duration-700 ease-in-out" data-carousel-item>
             <img
-              src=""
+              src="insurance.jpg"
               className="object-cover object-center w-full h-full"
               alt="Insurance"
             />
@@ -41,7 +41,7 @@ export default function Hero() {
           {/* Stock Market Slide */}
           <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src=""
+              src="investment1.jpg"
               className="object-cover object-center w-full h-full"
               alt="Stock Market"
             />
